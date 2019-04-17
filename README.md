@@ -1,2 +1,2 @@
 # CWS-2015
-Chines word segmentation
+Chinese word segmentation
